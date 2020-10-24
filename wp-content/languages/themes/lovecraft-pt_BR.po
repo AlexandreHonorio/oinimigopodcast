@@ -1,0 +1,193 @@
+# Translation of Themes - Lovecraft in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-28 23:57:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Lovecraft\n"
+
+#. Theme Name of the theme
+msgid "Lovecraft"
+msgstr "Lovecraft"
+
+#. Template Name of the theme
+msgid "Full Width Page Template"
+msgstr "Modelo de página com largura completa"
+
+#: inc/widgets/recent-posts.php:156
+msgid "Number of posts to display"
+msgstr "Número de posts a exibir"
+
+#: inc/widgets/recent-posts.php:9
+msgid "Displays recent blog entries."
+msgstr "Mostrar posts recentes do blog."
+
+#: inc/widgets/recent-comments.php:113 inc/widgets/recent-posts.php:158
+msgid "Defaults to 5 if empty"
+msgstr "Padrão é 5 se vazio"
+
+#: inc/widgets/recent-comments.php:111
+msgid "Number of comments to display"
+msgstr "Quantidade de comentários para mostrar"
+
+#: inc/widgets/recent-comments.php:9
+msgid "Displays recent comments with user avatars."
+msgstr "Mostrar comentários recentes com avatares. "
+
+#: inc/widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "Comentários"
+
+#: inc/widgets/recent-comments.php:106 inc/widgets/recent-posts.php:151
+msgid "Title"
+msgstr "Título"
+
+#: singular.php:38
+msgid "Pages:"
+msgstr "Páginas"
+
+#: sidebar.php:25 inc/widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "Tópicos recentes"
+
+#: searchform.php:7
+msgid "Search form"
+msgstr "Formulário de pesquisa"
+
+#: index.php:81
+msgid "No results. Try again, would you kindly?"
+msgstr "Nenhum resultado. Tente novamente por gentileza..."
+
+#: image.php:36
+msgid "Resolution:"
+msgstr "Resolução:"
+
+#: inc/classes/class-lovecraft-customize.php:42
+msgid "Accent Color"
+msgstr "Cor de Realce"
+
+#: inc/classes/class-lovecraft-customize.php:57
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "Envie um logo para substituir o titulo padrão no cabeçalho  ."
+
+#: inc/classes/class-lovecraft-customize.php:55
+#: inc/classes/class-lovecraft-customize.php:66
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/classes/class-lovecraft-customize.php:18
+msgid "Allows you to customize theme settings for Lovecraft."
+msgstr "Permite que você personalize as opções do tema Lovecraft."
+
+#: inc/classes/class-lovecraft-customize.php:15
+msgid "Options for Lovecraft"
+msgstr "Opções para Lovecraft"
+
+#: functions.php:402
+msgid "Reply"
+msgstr "Resposta"
+
+#: functions.php:395
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+#: functions.php:330 functions.php:350 functions.php:389
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:350
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:251
+msgid "Read More"
+msgstr "Ler mais"
+
+#: functions.php:198
+msgid "Widgets in this area will be shown in the right footer column."
+msgstr "Os widgets nesta área serão mostrados na coluna direita do rodapé."
+
+#: functions.php:196
+msgid "Footer Three"
+msgstr "Rodapé Três"
+
+#: functions.php:188
+msgid "Widgets in this area will be shown in the middle footer column."
+msgstr "Os widgets nesta área serão mostrados na coluna do meio do rodapé."
+
+#: functions.php:186
+msgid "Footer Two"
+msgstr "Rodapé Dois"
+
+#: functions.php:178
+msgid "Widgets in this area will be shown in the left footer column."
+msgstr "Os widgets nesta área serão mostrados na coluna esquerda do rodapé."
+
+#: functions.php:176
+msgid "Footer One"
+msgstr "Rodapé Um"
+
+#: functions.php:168
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Os widgets nesta área serão mostrados na barra lateral."
+
+#: functions.php:166
+msgid "Sidebar"
+msgstr "Lateral"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:29
+msgid "Theme by"
+msgstr "Tema por"
+
+#: footer.php:29
+msgid "Powered by"
+msgstr "Desenvolvido em"
+
+#: content.php:35
+msgid "Sticky post"
+msgstr "Post  fixo"
+
+#: functions.php:327
+msgid "In"
+msgstr "em"
+
+#: functions.php:324 image.php:29
+msgid "On"
+msgstr "em"
+
+#: functions.php:322 image.php:27
+msgid "By"
+msgstr "por"
+
+#: pagination.php:26 singular.php:80 comments.php:68
+msgid "Next"
+msgstr "Próximo"
+
+#: pagination.php:22 singular.php:73 comments.php:67
+msgid "Previous"
+msgstr "Anteriores"
+
+#: comments.php:27
+msgid "Add Comment"
+msgstr "Adicionar Comentário"
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "A página que você está tentando abrir não existe. Ela pode ter sido excluída, movida ou nunca existiu. Você também pode procurar algo do seu interesse no campo abaixo."
+
+#: 404.php:15
+msgid "Error 404"
+msgstr "Erro 404 - Página não encontrada."
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
